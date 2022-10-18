@@ -27,7 +27,7 @@
 
 - WIREFRAME UI [https://miro.com/app/board/uXjVPP-OsDg=/?share_link_id=811369286757](https://miro.com/app/board/uXjVPP-OsDg=/?share_link_id=811369286757)
 
-- UX [https://miro.com/app/board/uXjVPP-OsDg=/?share_link_id=811369286757]
+- UX [https://www.figma.com/file/Yi7UPCMZ8Gfvv6jYDaQMF7/Untitled?node-id=0%3A1]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
