@@ -20,6 +20,8 @@
 -La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.)
 
 - TOMA DE REQUERIMIENTOS [https://github.com/Micapedemonti/Launch-x-projects/blob/main/Abogabot/Analisis-requerimiento.jpg](https://github.com/Micapedemonti/Launch-x-projects/blob/main/Abogabot/Analisis-requerimiento.jpg)
+![image](https://user-images.githubusercontent.com/95888535/196970828-9bcebedb-c524-48d2-96c3-d2eb7622c214.png)
+
 
 - Buyer persona [https://github.com/Micapedemonti/Launch-x-projects/blob/main/Abogabot/Cliente.jpg](https://github.com/Micapedemonti/Launch-x-projects/blob/main/Abogabot/Cliente.jpg)
 
